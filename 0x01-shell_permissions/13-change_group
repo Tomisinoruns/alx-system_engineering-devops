@@ -1,2 +1,2 @@
 #!/bin/bash
-Chgrp newuser filename
+Chgrp newuser hello
