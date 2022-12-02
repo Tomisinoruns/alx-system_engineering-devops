@@ -1,2 +1,2 @@
 #!/bin/bash
-Chgrp newuser hello
+Chgrp school hello
