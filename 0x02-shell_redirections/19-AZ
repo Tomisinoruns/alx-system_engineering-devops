@@ -1,2 +1,2 @@
 #!/bin/bash
-sed 'A''c'|sed -i\'Z''e'
+tr Ac Ze
