@@ -1,0 +1,2 @@
+#!/bin/bash
+grep -le root /etc/passwd|head n -1|cat /etc/passwd|head n -4|tail n -3
